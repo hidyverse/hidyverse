@@ -1,11 +1,5 @@
-README
-================
 
 ## Hi, I’m Heidi
-
-<div class="columns">
-
-<div class="column" width="40%">
 
 ``` r
 heidi::about_me(
@@ -15,14 +9,6 @@ heidi::about_me(
 )
 ```
 
-</div>
-
-<div class="column" width="60%">
-
 <img src="octocat.png"
 data-fig-alt="heidi styled octocat with curly hair, tattoos, and coffee"
 data-fig-align="right" width="362" />
-
-</div>
-
-</div>
