@@ -1,14 +1,13 @@
 
 ## Hi, I’m Heidi
 
-``` r
-heidi::about_me(
-  pronouns = c("she", "her"),
-  code =  c("R", "Python", "CSS", "Observable"),
-  research_interests = c("Pharmacogenomics", "Precison Medicine", "Reproducibility in Clinical Research")
-)
-```
+`about_me <- list(
+  name            = "Heidi"
+  , pronouns      = c("she", "her")
+  , occupation    = "Data Science Educator"
+  , employer      = "UArizona"
+  , fav_prog_lang = "R"
+  , research      = c("Pharmacogenomics", "Precison Medicine", "Reproducibility in Clinical Research")
+  , website       = "https://heidiesteiner.netlify.app"
+)`
 
-<img src="octocat.png"
-data-fig-alt="heidi styled octocat with curly hair, tattoos, and coffee"
-data-fig-align="right" width="362" />
