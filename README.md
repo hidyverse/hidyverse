@@ -1,28 +1,15 @@
 README
 ================
 
-## Hi, I’m Heidi
+![Visitor
+Badge](https://visitor-badge.laobi.icu/badge?page_id=hidyverse.hidyverse)
 
-<div class="columns">
+## [<img src="manhattan_panel_PCadj.png" style="align-content: center;"
+width="444"
+alt="“Manhattan” scatter plots displaying chromosomal location along the x-axis and statistical confidence along y-axis, colors represent effect size of linear relationship with warfarin dose" />](https://github.com/karneslab/warf_latinx_local_vitk/blob/main/src/plink_manhattans.R)
 
-<div class="column" width="40%">
+## Welcome to the hidyverse!
 
-``` r
-heidi::about_me(
-  pronouns = c("she", "her"),
-  code =  c("R", "Python", "CSS", "Observable"),
-  research_interests = c("Pharmacogenomics", "Precison Medicine", "Reproducibility in Clinical Research")
-)
-```
-
-</div>
-
-<div class="column" width="60%">
-
-<img src="octocat.png"
-data-fig-alt="heidi styled octocat with curly hair, tattoos, and coffee"
-data-fig-align="right" width="362" />
-
-</div>
-
-</div>
+I’m a hyper verbal perpetual philosopher who loves data.  
+I am excited to be contributing to data science education through
+notebooks and data sharing and management plans. Follow along!

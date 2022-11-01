@@ -3,20 +3,13 @@ title: "README"
 format: gfm
 ---
 
-## Hi, I'm Heidi
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hidyverse.hidyverse)
 
-::: columns
-::: {.column width="40%"}
-```{r eval=FALSE}
-heidi::about_me(
-  pronouns = c("she", "her"),
-  code =  c("R", "Python", "CSS", "Observable"),
-  research_interests = c("Pharmacogenomics", "Precison Medicine", "Reproducibility in Clinical Research")
-)
-```
-:::
 
-::: {.column width="60%"}
-![](octocat.png){fig-alt="heidi styled octocat with curly hair, tattoos, and coffee" fig-align="right" width="362"}
-:::
-:::
+
+## [!["Manhattan" scatter plots displaying chromosomal location along the x-axis and statistical confidence along y-axis, colors represent effect size of linear relationship with warfarin dose](manhattan_panel_PCadj.png){style="align-content: center;" width="444"}](https://github.com/karneslab/warf_latinx_local_vitk/blob/main/src/plink_manhattans.R)
+
+## Welcome to the hidyverse! 
+
+I'm a hyper verbal perpetual philosopher who loves data.  \
+I am excited to be contributing to data science education through notebooks and data sharing and management plans. Follow along! 
