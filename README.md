@@ -1,5 +1,3 @@
-README
-================
 
 ## Welcome to the hidyverse!
 
